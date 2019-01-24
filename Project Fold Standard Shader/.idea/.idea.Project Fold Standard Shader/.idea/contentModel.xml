@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gzgtw\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gzgtw\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Project Fold Standard Shader.-1419064491.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gzgtw\Documents\GitHub\GroupC\Project Fold Standard Shader" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="FoldControl.cs" t="Include" />
+          <e p="Piece.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="com.unity.analytics" t="Include">
+          <e p="DataPrivacy" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="DataPrivacy.cs" t="Include" />
+            <e p="DataPrivacyButton.cs" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.collab-proxy" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="Collab" t="Include">
+              <e p="Bootstrap.cs" t="Include" />
+              <e p="CollabAnalytics.cs" t="Include" />
+              <e p="CollabHistoryWindow.cs" t="Include" />
+              <e p="CollabToolbarButton.cs" t="Include" />
+              <e p="CollabToolbarWindow.cs" t="Include" />
+              <e p="Presenters" t="Include">
+                <e p="CollabHistoryPresenter.cs" t="Include" />
+              </e>
+              <e p="Views" t="Include">
+                <e p="BuildStatusButton.cs" t="Include" />
+                <e p="CollabHistoryDropDown.cs" t="Include" />
+                <e p="CollabHistoryDropDownItem.cs" t="Include" />
+                <e p="CollabHistoryItem.cs" t="Include" />
+                <e p="CollabHistoryItemFactory.cs" t="Include" />
+                <e p="CollabHistoryRevisionLine.cs" t="Include" />
+                <e p="HistoryProgressSpinner.cs" t="Include" />
+                <e p="ICollabHistoryItemFactory.cs" t="Include" />
+                <e p="PagedListView.cs" t="Include" />
+                <e p="StatusView.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Resources" t="Include">
+              <e p="Styles" t="Include">
+                <e p="CollabHistoryCommon.uss" t="Include" />
+                <e p="CollabHistoryDark.uss" t="Include" />
+                <e p="CollabHistoryLight.uss" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="com.unity.package-manager-ui" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Styles" t="Include">
+                <e p="Main_Dark.uss" t="Include" />
+                <e p="Main_Light.uss" t="Include" />
+              </e>
+              <e p="Templates" t="Include">
+                <e p="Alert.uxml" t="Include" />
+                <e p="PackageAddFromUrlField.uxml" t="Include" />
+                <e p="PackageDetails.uxml" t="Include" />
+                <e p="PackageGroup.uxml" t="Include" />
+                <e p="PackageItem.uxml" t="Include" />
+                <e p="PackageList.uxml" t="Include" />
+                <e p="PackageManagerToolbar.uxml" t="Include" />
+                <e p="PackageManagerWindow.uxml" t="Include" />
+                <e p="PackageSearchToolbar.uxml" t="Include" />
+                <e p="PackageStatusBar.uxml" t="Include" />
+              </e>
+            </e>
+            <e p="Sources" t="Include">
+              <e p="External" t="Include">
+                <e p="SemVersion.cs" t="Include" />
+                <e p="SemVersionExtension.cs" t="Include" />
+              </e>
+              <e p="Services" t="Include">
+                <e p="Common" t="Include">
+                  <e p="ApplicationUtil.cs" t="Include" />
+                  <e p="OperationSignal.cs" t="Include" />
+                  <e p="Resources.cs" t="Include" />
+                  <e p="ThreadedDelay.cs" t="Include" />
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="IAddOperation.cs" t="Include" />
+                  <e p="IBaseOperation.cs" t="Include" />
+                  <e p="IListOperation.cs" t="Include" />
+                  <e p="IOperationFactory.cs" t="Include" />
+                  <e p="IRemoveOperation.cs" t="Include" />
+                  <e p="ISearchOperation.cs" t="Include" />
+                </e>
+                <e p="OperationFactory.cs" t="Include" />
+                <e p="Packages" t="Include">
+                  <e p="Package.cs" t="Include" />
+                  <e p="PackageAssetPostprocessor.cs" t="Include" />
+                  <e p="PackageCollection.cs" t="Include" />
+                  <e p="PackageError.cs" t="Include" />
+                  <e p="PackageFilter.cs" t="Include" />
+                  <e p="PackageGroupOrigins.cs" t="Include" />
+                  <e p="PackageInfo.cs" t="Include" />
+                  <e p="PackageInfoListExtensions.cs" t="Include" />
+                  <e p="PackageJsonHelper.cs" t="Include" />
+                  <e p="PackageListExtensions.cs" t="Include" />
+                  <e p="PackageOrigin.cs" t="Include" />
+                  <e p="PackageSearchFilter.cs" t="Include" />
+                  <e p="PackageState.cs" t="Include" />
+                  <e p="PackageTag.cs" t="Include" />
+                </e>
+                <e p="Upm" t="Include">
+                  <e p="UpmAddOperation.cs" t="Include" />
+                  <e p="UpmBaseOperation.cs" t="Include" />
+                  <e p="UpmListOperation.cs" t="Include" />
+                  <e p="UpmOperationFactory.cs" t="Include" />
+                  <e p="UpmRemoveOperation.cs" t="Include" />
+                  <e p="UpmSearchOperation.cs" t="Include" />
+                </e>
+              </e>
+              <e p="UI" t="Include">
+                <e p="Common" t="Include">
+                  <e p="Alert.cs" t="Include" />
+                  <e p="LoadingSpinner.cs" t="Include" />
+                  <e p="PopupField.cs" t="Include" />
+                  <e p="UIUtils.cs" t="Include" />
+                  <e p="VersionItem.cs" t="Include" />
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="IPackageManagerExtension.cs" t="Include" />
+                </e>
+                <e p="PackageAddFromUrlField.cs" t="Include" />
+                <e p="PackageDetails.cs" t="Include" />
+                <e p="PackageFiltering.cs" t="Include" />
+                <e p="PackageGroup.cs" t="Include" />
+                <e p="PackageItem.cs" t="Include" />
+                <e p="PackageList.cs" t="Include" />
+                <e p="PackageManagerExtensions.cs" t="Include" />
+                <e p="PackageManagerPrefs.cs" t="Include" />
+                <e p="PackageManagerToolbar.cs" t="Include" />
+                <e p="PackageManagerWindow.cs" t="Include" />
+                <e p="PackageSearchToolbar.cs" t="Include" />
+                <e p="PackageStatusBar.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="com.unity.textmeshpro" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="DropdownOptionListDrawer.cs" t="Include" />
+              <e p="EditorCoroutine.cs" t="Include" />
+              <e p="GlyphInfoDrawer.cs" t="Include" />
+              <e p="KerningPairDrawer.cs" t="Include" />
+              <e p="SpriteInfoDrawer.cs" t="Include" />
+              <e p="TextAlignmentDrawer.cs" t="Include" />
+              <e p="TMP_BaseEditorPanel.cs" t="Include" />
+              <e p="TMP_BaseShaderGUI.cs" t="Include" />
+              <e p="TMP_BitmapShaderGUI.cs" t="Include" />
+              <e p="TMP_ColorGradientAssetMenu.cs" t="Include" />
+              <e p="TMP_ColorGradientEditor.cs" t="Include" />
+              <e p="TMP_DropdownEditor.cs" t="Include" />
+              <e p="TMP_EditorPanel.cs" t="Include" />
+              <e p="TMP_EditorUtility.cs" t="Include" />
+              <e p="TMP_FontAssetEditor.cs" t="Include" />
+              <e p="TMP_InputFieldEditor.cs" t="Include" />
+              <e p="TMP_MeshRendererEditor.cs" t="Include" />
+              <e p="TMP_PackageUtilities.cs" t="Include" />
+              <e p="TMP_PostBuildProcessHandler.cs" t="Include" />
+              <e p="TMP_ProjectTextSettings.cs" t="Include" />
+              <e p="TMP_ResourcesLoader.cs" t="Include" />
+              <e p="TMP_SDFShaderGUI.cs" t="Include" />
+              <e p="TMP_SettingsEditor.cs" t="Include" />
+              <e p="TMP_SpriteAssetEditor.cs" t="Include" />
+              <e p="TMP_SpriteAssetImporter.cs" t="Include" />
+              <e p="TMP_SpriteAssetMenu.cs" t="Include" />
+              <e p="TMP_StyleAssetMenu.cs" t="Include" />
+              <e p="TMP_StyleSheetEditor.cs" t="Include" />
+              <e p="TMP_SubMesh_Editor.cs" t="Include" />
+              <e p="TMP_SubMeshUI_Editor.cs" t="Include" />
+              <e p="TMP_UiEditorPanel.cs" t="Include" />
+              <e p="TMP_UIStyleManager.cs" t="Include" />
+              <e p="TMPro_ContextMenus.cs" t="Include" />
+              <e p="TMPro_CreateObjectMenu.cs" t="Include" />
+              <e p="TMPro_EditorShaderUtilities.cs" t="Include" />
+              <e p="TMPro_FontAssetCreatorWindow.cs" t="Include" />
+              <e p="TMPro_FontPlugin.cs" t="Include" />
+              <e p="TMPro_SortingLayerHelper.cs" t="Include" />
+              <e p="TMPro_TextContainerEditor.cs" t="Include" />
+              <e p="TMPro_TexturePostProcessor.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="FastAction.cs" t="Include" />
+              <e p="MaterialReferenceManager.cs" t="Include" />
+              <e p="PackageResourceImporterWindow.cs" t="Include" />
+              <e p="TextContainer.cs" t="Include" />
+              <e p="TextMeshPro.cs" t="Include" />
+              <e p="TextMeshProUGUI.cs" t="Include" />
+              <e p="TMP_Asset.cs" t="Include" />
+              <e p="TMP_ColorGradient.cs" t="Include" />
+              <e p="TMP_Compatibility.cs" t="Include" />
+              <e p="TMP_CoroutineTween.cs" t="Include" />
+              <e p="TMP_DefaultControls.cs" t="Include" />
+              <e p="TMP_Dropdown.cs" t="Include" />
+              <e p="TMP_FontAsset.cs" t="Include" />
+              <e p="TMP_InputField.cs" t="Include" />
+              <e p="TMP_InputValidator.cs" t="Include" />
+              <e p="TMP_LineInfo.cs" t="Include" />
+              <e p="TMP_ListPool.cs" t="Include" />
+              <e p="TMP_MaterialManager.cs" t="Include" />
+              <e p="TMP_MeshInfo.cs" t="Include" />
+              <e p="TMP_ObjectPool.cs" t="Include" />
+              <e p="TMP_ScrollbarEventHandler.cs" t="Include" />
+              <e p="TMP_SelectionCaret.cs" t="Include" />
+              <e p="TMP_Settings.cs" t="Include" />
+              <e p="TMP_Sprite.cs" t="Include" />
+              <e p="TMP_SpriteAnimator.cs" t="Include" />
+              <e p="TMP_SpriteAsset.cs" t="Include" />
+              <e p="TMP_SpriteAssetImportFormats.cs" t="Include" />
+              <e p="TMP_Style.cs" t="Include" />
+              <e p="TMP_StyleSheet.cs" t="Include" />
+              <e p="TMP_SubMesh.cs" t="Include" />
+              <e p="TMP_SubMeshUI.cs" t="Include" />
+              <e p="TMP_Text.cs" t="Include" />
+              <e p="TMP_TextElement.cs" t="Include" />
+              <e p="TMP_TextInfo.cs" t="Include" />
+              <e p="TMP_TextUtilities.cs" t="Include" />
+              <e p="TMP_UpdateManager.cs" t="Include" />
+              <e p="TMP_UpdateRegistery.cs" t="Include" />
+              <e p="TMP_XmlTagStack.cs" t="Include" />
+              <e p="TMPro_EventManager.cs" t="Include" />
+              <e p="TMPro_ExtensionMethods.cs" t="Include" />
+              <e p="TMPro_FontUtilities.cs" t="Include" />
+              <e p="TMPro_MeshUtilities.cs" t="Include" />
+              <e p="TMPro_Private.cs" t="Include" />
+              <e p="TMPro_ShaderUtilities.cs" t="Include" />
+              <e p="TMPro_UGUI_Private.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Project Fold Standard Shader.csproj" t="IncludeRecursive" />
+      <e p="Project Fold Standard Shader.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="UnityVS_bin\Debug" t="ExcludeRecursive" />
+        <e p="UnityVS_obj\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity.Analytics.DataPrivacy.csproj" t="IncludeRecursive" />
+      <e p="Unity.CollabProxy.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.PackageManagerUI.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.TextMeshPro.csproj" t="IncludeRecursive" />
+      <e p="Unity.TextMeshPro.Editor.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
